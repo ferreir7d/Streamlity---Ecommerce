@@ -15,6 +15,7 @@ O painel oferece uma visualização dinâmica baseada em dados carregados via CS
 * **Visualização:** Plotly Express
 
 🗂️ Estrutura do Projeto
+
 projeto-dados
 │
 ├── app/
