@@ -16,17 +16,18 @@ O painel oferece uma visualização dinâmica baseada em dados carregados via CS
 
 🗂️ Estrutura do Projeto
 
-projeto-dados
+```text
+projeto-dados/
 │
 ├── app/
-│   ├── main.py      # Arquivo principal da aplicação Streamlit
-│   └── app.py          # Apenas carrega a base de dados
+│   ├── main.py   # Arquivo principal da aplicação Streamlit
+│   └── app.py    # Apenas carrega a base de dados
 │
 ├── data/
-│   └── dados.csv         # Base de dados utilizada no dashboard (**adicione a sua)
+│   └── dados.csv  # Base de dados utilizada no dashboard (**adicione a sua)
 │
-├── .gitignore            # Arquivos ignorados
-├── requirements.txt      # Dependências do projeto
+├── .gitignore # Arquivos ignorados
+├── requirements.txt # Dependências do projeto
 
 
 👨‍⚖️ Autor
